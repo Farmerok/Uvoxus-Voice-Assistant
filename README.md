@@ -56,7 +56,7 @@
     </td>
     <td valign="top" width="33%">
       <b>🗂️ Команды</b><br>
-      <img src="docs/resource/image/primary-screen.png" width="650px"><br>
+      <img src="docs/resource/image/command-screen.png" width="650px"><br>
       <p>Управляйте всеми вашими командами и сценариями.<br>
       Создавайте, редактируйте и тестируйте их в одном месте.</p>
     </td>
