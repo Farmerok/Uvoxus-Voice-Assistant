@@ -17,6 +17,27 @@
 
 ---
 
+## 🌐 Choose Your Language / Выберите свой язык
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="docs/README.en.md">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English" style="width: 40px; vertical-align: middle; margin: 5px;" />
+          <br>English
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/README.ru.md">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" alt="Русский" style="width: 40px; vertical-align: middle; margin: 5px;" />
+          <br>Русский
+        </a>
+      </td>
+  </table>
+</p>
+
+
 ## 🖥️ Supported OS
 
 - Windows 10+ (Fully supported)  
