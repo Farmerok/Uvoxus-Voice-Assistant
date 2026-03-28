@@ -9,10 +9,9 @@
 - 🎤 **Dual Recognition Engines:** Google (online) and VOSK (offline) for high accuracy and privacy.  
 - 📜 **Commands & Scenarios:** Execute single actions or automate complex sequences with one phrase.  
 - 🌐 **Custom Localization:** Create and use your own translations, fully supported in the interface and voice recognition.  
-- 🧩 **Plugin System:** Extend functionality with Python-based plugins without additional installations.  
+- 🧩 **Plugin System:** Expand functionality with Python plugins without additional installations. Write code directly within the application and run it without any compilation
 - 🖥️ **Voice Control:** Open apps, websites, system folders, adjust volume and brightness, manage power schemes.  
 - 🎨 **Personalization:** Customize activation name, themes, and sound responses.  
-- ⏰ **Reminders & Notifications:** Set voice reminders and get timely notifications.  
 - ⬇️ **Quick Access:** Type commands via chat or use system tray for instant control.  
 
 ---
