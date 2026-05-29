@@ -223,7 +223,6 @@ Below are the **main sections** of the app with a description of each screen:
 
 - 📥 **Import & Export:** Save all settings, commands, and scenarios into a ZIP file for backup or transfer.
 - 🎹 **Hotkeys:** Assign keyboard shortcuts to any command or scenario.
-- 🎮 **Поддержка контроллера:** Управляйте курсором или включайте/выключайте распознавание ассистента с помощью контроллера.
 - 🛠️ **Macro System:** Record actions and replay them with a single voice command.
 - 🌐 **Browser Control:** Open websites, new tabs, switch between them, refresh, and scroll pages.
 - ⌨️ **Keyboard Emulation:** Simulate key presses and complex shortcuts (`Ctrl + Shift + Esc`), and dictate text by voice.
