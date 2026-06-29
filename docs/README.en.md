@@ -127,7 +127,7 @@ A sidebar shows all installed modules and allows switching between their configu
 
 
 🛒 **Marketplace**  
-Several ready-to-use plugins are available (BinDrop and others). Install them with one click — no manual file management required.
+Several ready-to-use plugins are already available. Install them with a single click—no manual file handling required
 
 <img src="resource/image/screen_plgn_marketplace.png" width="600px" align="center">
 
@@ -180,7 +180,7 @@ Below are the **main sections** of the app with a description of each screen:
     <td valign="top" width="33%">
        <b>🎨 Theme Customization</b><br>
       <img src="resource/image/screen-showStyleProfile.png" width="900px"><br>
-      <p>Control the transparency and 'Always on Top' mode. Enable visual feedback on the edges of the screen when the assistant is activated and deactivated. Choose a ready-made color scheme or create your own so that the interface suits you perfectly.</p>
+      <p>Customize the font, transparency, and compact interface mode. Fine-tune the visual feedback by choosing activation colors, border thickness, and the highlighted edge area of the screen. Enable subtitles and select their style for a more convenient view of recognized speech.</p>
     </td>
     <td valign="top" width="33%">
       <b>💭 Assistant Test Chat</b><br>
